@@ -11,6 +11,7 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     std::cout << "Hello, World!\n";
-    std::cout << "Hi, this was added by editing the file on github.com\n"
+    std::cout << "Hi, this was added by editing the file on github.com\n";
+    std::cout << "Hi again, this was later added on the Mac\n";
     return 0;
 }
